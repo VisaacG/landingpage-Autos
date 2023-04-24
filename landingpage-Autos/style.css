@@ -1,0 +1,11 @@
+@import "navbar.css";
+
+:root {
+    --black: #202020;
+    --white: #ffffff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
